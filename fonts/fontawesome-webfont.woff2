@@ -1,0 +1,414 @@
+
+<!DOCTYPE html>
+<!--[if IE 9]>
+<html lang="fr" class="ie9 no-js">
+<![endif]-->
+<!--[if !IE]> -->
+<html lang="fr" class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>window.YETT_BLACKLIST = [ /google-analytics\.com/,/googletagmanager\.com\/gtag/,/fbevents\.js/,/www\.facebook\.com\/tr/,/js\.adsrvr\.org/,/optimus-rkhzUY_Uz\.js/,/servedby\.flashtalking\.com/,/dc\.ads\.linkedin\.com/,/snap\.licdn\.com/,/www\.googleadservices\.com/,/googleads\.g\.doubleclick\.net/,/www\.google\.com\/ads\/ga-audiences/,/bp-1c51\.kxcdn\.com/,/static\.hotjar\.com/ ]; </script>
+<script type="text/javascript" src="../js/polyfills.js"></script>
+<script type="text/javascript" src="../js/yett.js"></script>
+<script>window.vk_cookie_manager_settings = {"interface":{"banner":{"title":"Tango utilise des cookies","description":"Tango installe des cookies sur ses sites web pour assurer le bon fonctionnement de ceux-ci, am\u00e9liorer votre exp\u00e9rience de navigation, analyser l\u2019utilisation, et adapter leurs contenus sur base de vos centres d\u2019int\u00e9r\u00eats. Les partenaires m\u00e9dias et d\u2019analyse avec lesquels Tango collabore peuvent \u00e9galement installer des cookies sur nos sites afin d\u2019afficher sur d\u0027autres sites des publicit\u00e9s susceptibles de vous int\u00e9resser. La loi stipule que nous ne pouvons stocker des cookies sur votre appareil que s\u2019ils sont strictement n\u00e9cessaires au fonctionnement de ce site. Pour tous les autres types de cookies (plac\u00e9s par les services tiers qui apparaissent sur nos pages), nous avons besoin de votre permission.\u003Cbr\u003E\r\nCliquez sur \u00ab Accepter \u00bb pour accepter les cookies et acc\u00e9der au site ou cliquez sur \u00ab Configurer vos cookies \u00bb pour adapter vos pr\u00e9f\u00e9rences de cookies. Attention, le blocage de certains cookies peut entraver le bon fonctionnement du site.\u003C\/br\u003E\r\n","cta":"Configurer vos cookies","enable_all":"Accepter"},"modal":{"title":"Tango utilise des cookies","description":"Vous pouvez configurer vos r\u00e9glages et choisir comment vous souhaitez que vos donn\u00e9es personnelles soient utilis\u00e9e en fonction des objectifs ci-dessous. Vous pouvez configurer les r\u00e9glages de mani\u00e8re ind\u00e9pendante pour chaque partenaire. Vous trouverez une description de chacun des objectifs sur la fa\u00e7on dont nos partenaires et nous-m\u00eames utilisons vos donn\u00e9es personnelles.","close":"Enregistrer et fermer","enable_all":"Autoriser tous les services","disable_all":"Refuser tous les services","toggle_group":"Activer \/ d\u00e9sactiver ce groupe de services"}},"groups":{"api":{"disabled":true},"analytics":{"title":"Statistiques","description":"Les cookies statistiques nous aident, par la collecte et la communication d\u0027informations, \u00e0 comprendre comment les visiteurs interagissent avec notre site Web","services":{"gtm":{"disabled":true},"ga":{"machine_name":"ga","disabled":false,"title":"Google Analytics","description":"","link":"https:\/\/support.google.com\/analytics\/answer\/6004245","group":"analytics","pattern":["\/google-analytics\\.com\/","\/googletagmanager\\.com\\\/gtag\/"]}}},"marketing":{"title":"Marketing","description":"Les cookies marketing sont utilis\u00e9s pour effectuer le suivi des utilisateurs au travers des sites Web (voir ou cliquer sur une publicit\u00e9 par exemple). Le but est de mesurer l\u0027efficacit\u00e9 des annonces publicitaires et d\u0027en pr\u00e9senter d\u0027autres qui seront pertinentes et int\u00e9ressantes pour l\u0027utilisateur. En d\u00e9sactivant ces cookies, vous ne verrez pas moins de publicit\u00e9s, mais les publicit\u00e9s seront moins int\u00e9ressantes.","services":{"pixel_fb":{"machine_name":"pixel_fb","title":"Facebook","description":"","link":"https:\/\/fr-fr.facebook.com\/business\/help\/www\/651294705016616","group":"api","pattern":["\/fbevents\\.js\/","\/www\\.facebook\\.com\\\/tr\/"]},"thetradedesk":{"machine_name":"thetradedesk","title":"The TradeDesk","description":"","link":"https:\/\/www.adsrvr.org\/","group":"analytics","pattern":"\/js\\.adsrvr\\.org\/"},"360":{"machine_name":360,"title":"360\u00261","description":"","link":"https:\/\/www.360and1.com\/","group":"analytics","pattern":"\/optimus-rkhzUY_Uz\\.js\/"},"flashtalking":{"machine_name":"flashtalking","title":"Flashtalking","description":"","link":"https:\/\/www.flashtalking.com\/","group":"analytics","pattern":"\/servedby\\.flashtalking\\.com\/"},"linkedin":{"machine_name":"linkedin","title":"LinkedIn","description":"","link":"https:\/\/business.linkedin.com\/","group":"analytics","pattern":["\/dc\\.ads\\.linkedin\\.com\/","\/snap\\.licdn\\.com\/"]},"googleads":{"machine_name":"googleads","title":"Google Ads","description":"","link":"https:\/\/ads.google.com\/","group":"analytics","pattern":["\/www\\.googleadservices\\.com\/","\/googleads\\.g\\.doubleclick\\.net\/","\/www\\.google\\.com\\\/ads\\\/ga-audiences\/"]},"gtm":{"machine_name":"gtm","title":"Google TAG Manager","description":"","link":"https:\/\/support.google.com\/tagmanager\/answer\/6102821?hl=fr","group":"analytics","pattern":"\/googletagmanager\\.com\\\/gtag\/","disabled":true},"beampulse":{"machine_name":"beampulse","title":"Beampulse","description":"","link":"https:\/\/fr.beampulse.com\/","group":"analytics","pattern":"\/bp-1c51\\.kxcdn\\.com\/","disabled":false},"hotjar":{"machine_name":"hotjar","title":"Hotjar","description":"","link":"https:\/\/www.hotjar.com\/","group":"analytics","pattern":"\/static\\.hotjar\\.com\/","disabled":false}}}},"templates":{}}</script>
+<script type="text/javascript" src="../js/umd.js"></script>
+<script type="text/javascript" src="../js/default-config.js"></script>
+<script type="text/javascript" src="../js/main.js"></script>
+<link rel="stylesheet" href="../css/main.css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="../favicon.ico" type="image/vnd.microsoft.icon">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Website","url":"https:\/\/www.tango.lu\/fr","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.tango.lu\/fr\/search\/node\/{search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"name":"Tango","url":"https:\/\/www.tango.lu\/en","logo":"https:\/\/www.tango.lu\/sites\/tango\/files\/knowledge_graph\/logo_tango.png","@context":"http:\/\/schema.org","@type":"Organization","contactPoint":[{"telephone":"800 777 77","contactType":"Service client","@type":"ContactPoint"}],"sameAs":["https:\/\/www.facebook.com\/tangoluxembourg\/","https:\/\/twitter.com\/tangoluxembourg","https:\/\/www.youtube.com\/user\/TangoLuxembourg","https:\/\/www.linkedin.com\/company\/tangoluxembourg\/"]}</script>
+<link rel="alternate" hreflang="de" href="https://www.tango.lu/de/node/158">
+<link rel="alternate" hreflang="fr" href="https://www.tango.lu/fr/node/158">
+<link rel="alternate" hreflang="en" href="https://www.tango.lu/en/node/158">
+<link rel="canonical" href="https://www.tango.lu/fr">
+<meta property="og:site_name" content="TANGO">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.tango.lu/fr">
+<meta property="og:title" content="TANGO">
+<meta property="og:image" content="../images/logo-share.png">
+<meta name="twitter:url" content="https://www.tango.lu/fr">
+<meta name="twitter:title" content="TANGO">
+<script>window.dataLayer = window.dataLayer || []; </script>
+
+
+<style>
+.form-item-new-line-esim-0, .form-item-migrate-operator-esim-0 { display:none; }
+</style><!-- Google Tag Manager -->
+							<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+							new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+							j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TF738G');</script>
+						<!-- End Google Tag Manager -->    <title>Page not found | TANGO</title>
+    <link type="text/css" rel="stylesheet" href="../css/system.base.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/system.messages.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/jquery.ui.core.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/jquery.ui.theme.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/date.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/datepicker.1.7.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/field.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/node.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/office_hours.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/search.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/user.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/youtube.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/vanksen_main.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/views.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/ctools.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/modal.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/vk_ctools_modal.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/locale.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/outdatedbrowser.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/vk_cookie_compliance.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/main_1.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/paragraph.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/additional.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/standard-form.css" media="all">
+<link type="text/css" rel="stylesheet" href="../css/vk_cookie_manager.css" media="all">
+    <script type="text/javascript" src="../js/js_MAi5m7-DJl8Da_FlH2sNx3Q19avLv0MG85TxW6jhZvo.js"></script>
+<script type="text/javascript" src="../js/js_1wH9DTMstrOylxbMvldtij2RLZnYm-PC6uLikZ6SsKA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"fr\/","ajaxPageState":{"theme":"tango","theme_token":"3D7ToIyRzlqNm8CI6GASLkVG98arYj2kOlAO05Wrdcc","jquery_version":"1.10","js":{"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"sites\/tango\/modules\/custom\/tango_tagging\/js\/tagging.js":1,"sites\/tango\/modules\/custom\/tango_main\/js\/tango_main.js":1,"public:\/\/languages\/fr_GWYZETyGvOqLoHYLXzV4Y0LWoF2c-bbO6Kd7uneFDmo.js":1,"profiles\/vanksen\/modules\/vanksen\/vanksen_tools\/js\/ajax.js":1,"misc\/progress.js":1,"profiles\/vanksen\/modules\/contrib\/ctools\/js\/modal.js":1,"profiles\/vanksen\/modules\/vanksen\/vk_ctools_modal\/js\/vk_ctools_modal.js":1,"sites\/tango\/libraries\/outdatedbrowser\/outdatedbrowser\/outdatedbrowser.min.js":1,"profiles\/vanksen\/modules\/vanksen\/vk_cookie_compliance\/js\/vk_cookie_compliance.js":1,"profiles\/vanksen\/modules\/vanksen\/vanksen_main\/js\/vanksen-main-ajax.js":1,"sites\/tango\/modules\/contrib\/outdatedbrowser\/js\/outdatedbrowser.js":1,"profiles\/vanksen\/modules\/vanksen\/vk_pixel_facebook\/js\/vk_pixel_facebook.js":1,"sites\/tango\/themes\/tango\/js\/scroll_listener.js":1,"sites\/tango\/themes\/tango\/js\/vendor\/bootstrap-toolkit.min.js":1,"sites\/tango\/themes\/tango\/js\/vendor\/bootstrap.min.js":1,"sites\/tango\/themes\/tango\/js\/vendor\/jquery.placeholder.min.js":1,"sites\/tango\/themes\/tango\/js\/vendor\/slick.min.js":1,"sites\/tango\/themes\/tango\/js\/vendor\/awesomplete.js":1,"sites\/tango\/themes\/tango\/js\/helper.js":1,"sites\/tango\/themes\/tango\/js\/standard-form.js":1,"sites\/tango\/themes\/tango\/js\/main.js":1,"sites\/tango\/themes\/tango\/js\/mobile-menu.js":1,"sites\/tango\/themes\/tango\/js\/paraphs-expended.js":1,"profiles\/vanksen\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/drupal.js":1,"profiles\/vanksen\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/vanksen\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/vanksen\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"profiles\/vanksen\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"profiles\/vanksen\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/vanksen\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/tango\/modules\/contrib\/office_hours\/office_hours.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/tango\/modules\/contrib\/youtube\/css\/youtube.css":1,"profiles\/vanksen\/modules\/vanksen\/vanksen_main\/css\/vanksen_main.css":1,"profiles\/vanksen\/modules\/contrib\/views\/css\/views.css":1,"profiles\/vanksen\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/vanksen\/modules\/contrib\/ctools\/css\/modal.css":1,"profiles\/vanksen\/modules\/vanksen\/vk_ctools_modal\/css\/vk_ctools_modal.css":1,"modules\/locale\/locale.css":1,"sites\/tango\/libraries\/outdatedbrowser\/outdatedbrowser\/outdatedbrowser.min.css":1,"profiles\/vanksen\/modules\/vanksen\/vk_cookie_compliance\/css\/vk_cookie_compliance.css":1,"sites\/tango\/themes\/tango\/css\/main.css":1,"sites\/tango\/themes\/tango\/css\/paragraph.css":1,"sites\/tango\/themes\/tango\/css\/additional.css":1,"sites\/tango\/themes\/tango\/css\/standard-form.css":1,"sites\/tango\/themes\/tango\/css\/vk_cookie_manager.css":1}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg src=\u0022https:\/\/www.tango.lu\/profiles\/vanksen\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg src=\u0022https:\/\/www.tango.lu\/profiles\/vanksen\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"themevk":{"modalSize":{"type":"fixed","width":"auto","height":"auto","addWidth":0,"addHeight":0},"modalOptions":{"opacity":"0.8","background-color":"#24446a"},"animation":"fadeIn","animationSpeed":350,"closeText":"Close","closeImage":""},"vk_ctools_modal":{"default_settings":{"title":"","output":"","choice":"themevk","can_be_closed":true,"overlayer_close":true,"context_id":"default-context"}},"ajax":{"edit-submit--3":{"callback":"_tango_campaignmonitor_newsletter_form_ajax_callback","wrapper":"newsletter-register-form","method":"replaceWith","event":"mousedown","keypress":true,"prevent":"click","url":"\/fr\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":""}}},"urlIsAjaxTrusted":{"\/fr\/system\/ajax":true,"\/fr\/sites\/tango\/themes\/tango\/fonts\/fontawesome-webfont.woff2?v=4.7.0":true},"tango_context":"default","vk_cookie_compliance":{"vk_cookie_compliance_display":"0"},"customer_panel_url":"\/fr\/order\/panel?context=part","site_url":"https:\/\/www.tango.lu\/","theme_path":{"path":"\/sites\/tango\/themes\/tango\/"},"theme_path_abs":{"path":"https:\/\/www.tango.lu\/sites\/tango\/themes\/tango\/"},"environment":"","current_language":"fr","current_url":"node\/158","current_path":"node\/158","cache_version":"qqkv83","is_logged":false,"outdatedbrowser":{"bgColor":"#0d5f9b","color":"#b5d242","lowerThan":"IE9","languagePath":"https:\/\/www.tango.lu\/sites\/tango\/libraries\/outdatedbrowser\/outdatedbrowser\/lang\/fr.html"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-158 i18n-fr error-page error-404">
+    <!-- Google Tag Manager (noscript) -->
+								<noscript><iframe src="../ns.html" 0"="" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+							<!-- End Google Tag Manager (noscript) -->    
+<div class="wrapper">
+
+    
+    <header>
+    <nav class="navbar navbar-default" id="menu">
+        <div class="navbar-header">
+
+            <label type="button" class="navbar-toggle collapsed" id="main-menu-button" data-target="#nav" for="main-menu-button-target">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </label>
+
+            
+            <a class="navbar-brand" href="/fr" title="TANGO" rel="home" id="logo">
+                <img src="../images/logo.png" alt="TANGO">
+            </a>
+
+                    </div>
+
+                    <div class="customer-panel">
+    <ul>
+    <li><a href="https://facture.tango.lu/gestion/Login.aspx" data-ga-event="Customer-Area*Access" class="tango-icon tango-icon-lock">__CUSTOMER_AREA_LABEL</a>
+    </li>
+
+    <li class="cart">
+        <a class="empty tango-icon tango-icon-cart" href="/fr/panier">__CART_LABEL
+            <span></span></a>
+
+            
+    </li>
+</ul></div>        
+        <input type="checkbox" class="nav-trigger" id="main-menu-button-target" value="Open navigation">
+
+        <div id="nav">
+
+                <div class="region region-nav">
+        <nav id="profile-menu"><ul class="menu"><li class="first leaf has-children menu-mlid-984 active depth--1" identifier="part" default_context="1"><a href="/fr" class="active-trail active depth--1">Particulier</a></li>
+<li class="last leaf has-children menu-mlid-1544 depth--1" identifier="pro"><a href="/fr/professionnel" class="depth--1">Business</a></li>
+</ul></nav>
+<nav id="main-menu"><ul class="menu"><li class="first expanded menu-mlid-1541 depth--2"><a href="/fr/particulier/offres" class="front-deployed depth--2">Nos | offres<span class="caret"></span></a><ul class="menu"><li class="first expanded menu-mlid-1542 depth--3" identifier="go-mobile--part"><a href="/fr/particulier/offres/mobile" class="tango-icon tango-icon-mobile double-color depth--3" menu_image="345"><span class="go">go</span>mobile<span class="caret"></span></a><ul class="menu"><li class="first last expanded menu-mlid-8947 depth--4"><a href="/fr" title="Tous les forfaits pour votre téléphone portable au meilleur prix " class="depth--4"><span class="go">go</span>mobile<span class="caret"></span></a><div>Tous les forfaits pour votre téléphone portable au meilleur prix </div><ul class="menu"><li class="first leaf menu-mlid-8960 depth--5"><a href="/fr/particulier/offres/mobile/abonnement" class="depth--5">Nos offres mobiles</a></li>
+<li class="leaf menu-mlid-8957 depth--5"><a href="/fr/particulier/offres/mobile/internet-mobile" class="depth--5">Nos offres Internet Mobile</a></li>
+<li class="leaf menu-mlid-8963 depth--5"><a href="/fr/particulier/offres/mobile/abonnement/carte-prepayee" class="depth--5">Carte prépayée</a></li>
+<li class="leaf menu-mlid-8966 depth--5"><a href="/fr/particulier/offres/mobile/comparer" class="depth--5">Smartphones et tablettes</a></li>
+<li class="leaf menu-mlid-8969 depth--5"><a href="/fr/particulier/offres/mobile/abonnement/options-et-services" class="depth--5">Options et services</a></li>
+<li class="last leaf menu-mlid-8972 depth--5"><a href="/fr/particulier/promos" class="depth--5">Bons plans</a></li>
+</ul></li>
+<li><a href="https://www.tango.lu/fr/particulier/offres/mobile/abonnement/smart-illimite"><img src="../images/promomenu_mobile_newtangofibre_fr_1.png" alt="gomobile" class="mobile"></a><a href="https://www.tango.lu/fr/particulier/offres/mobile/abonnement/smart-illimite"><img src="../images/promomenu_desktop_newtangofibre_fr_1.png" alt="gomobile" class="desktop"></a></li></ul></li>
+<li class="expanded menu-mlid-1545 depth--3" identifier="go-internet--part"><a href="/fr/particulier/offres/internet" class="tango-icon-internet tango-icon double-color depth--3"><span class="go">go</span>internet<span class="caret"></span></a><ul class="menu"><li class="first last expanded menu-mlid-8975 depth--4"><a href="/fr" title="Internet plus rapide et moins cher" class="depth--4"><span class="go">go</span>internet<span class="caret"></span></a><div>Internet plus rapide et moins cher</div><ul class="menu"><li class="first leaf menu-mlid-10060 depth--5"><a href="/fr/particulier/offres/internet/abonnement/tango-duo" class="depth--5">Nos offres Internet + TV</a></li>
+<li class="leaf menu-mlid-8978 depth--5"><a href="/fr/particulier/offres/internet/abonnement/tango-fibre" class="depth--5">Nos offres Internet</a></li>
+<li class="leaf menu-mlid-8981 depth--5"><a href="/fr/particulier/offres/internet/abonnement/options-et-services" class="depth--5">Options et services</a></li>
+<li class="last leaf menu-mlid-8984 depth--5"><a href="/fr/particulier/promos" class="depth--5">Bons plans</a></li>
+</ul></li>
+<li><a href="https://www.tango.lu/fr/particulier/offres/internet/abonnement/tango-fibre"><img src="../images/promomenu_mobile_newtangofibre_fr.png" alt="gointernet" class="mobile"></a><a href="https://www.tango.lu/fr/particulier/offres/internet/abonnement/tango-fibre"><img src="../images/promomenu_desktop_newtangofibre_fr.png" alt="gointernet" class="desktop"></a></li></ul></li>
+<li class="expanded menu-mlid-1548 depth--3" identifier="go-tv--part"><a href="/fr/particulier/offres/television" class="tango-icon-tv tango-icon double-color depth--3"><span class="go">go</span>tv<span class="caret"></span></a><ul class="menu"><li class="first last expanded menu-mlid-8987 depth--4"><a href="/fr" title="La TV pour tous les goûts" class="depth--4"><span class="go">go</span>tv<span class="caret"></span></a><div>La TV pour tous les goûts</div><ul class="menu"><li class="first leaf menu-mlid-10063 depth--5"><a href="/fr/particulier/offres/internet/abonnement/tango-duo" class="depth--5">Nos offres Internet + TV</a></li>
+<li class="leaf menu-mlid-8990 depth--5"><a href="/fr/particulier/offres/television/offres-pack-tv/tango-tv" class="depth--5">Nos offres TV</a></li>
+<li class="leaf menu-mlid-8999 depth--5"><a href="/fr/decouvrez-toute-lactu-de-votre-tango-tv" class="depth--5">Actu TV</a></li>
+<li class="leaf menu-mlid-10358 depth--5"><a href="http://www.tango.lu/fr/particulier/offres/television/offres-pack-tv/vos-chaines-tango-tv?subscription=6391" class="depth--5">Chaînes TV</a></li>
+<li class="leaf menu-mlid-8996 depth--5"><a href="/fr/particulier/offres/television/offres-pack-tv/bouquets-thematiques-tango-tv" class="depth--5">Bouquets TV</a></li>
+<li class="leaf menu-mlid-9311 depth--5"><a href="/fr/rdv-sports" class="depth--5">RDV Sports</a></li>
+<li class="last leaf menu-mlid-8993 depth--5"><a href="/fr/particulier/promos" class="depth--5">Bons Plans</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf menu-mlid-9302 help depth--3"><a href="https://community.tango.lu/" class="tango-icon tango-icon-help mobile-only depth--3">Support</a></li>
+<li class="last leaf menu-mlid-4745 depth--3"><a href="https://facture.tango.lu/gestion/Login.aspx" class="tango-icon tango-icon-user mobile-only depth--3">My Tango</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-1813 help depth--2"><a href="https://community.tango.lu/" class="tango-icon tango-icon-help mobile-only depth--2">Support</a></li>
+<li class="search_form"><div class="block-search-form">
+    <div class="content">
+                <form action="/fr/sites/tango/themes/tango/fonts/fontawesome-webfont.woff2?v=4.7.0" method="post" data-id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline clearfix">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" data-for="edit-search-block-form--4">Rechercher </label>
+ <input title="Rechercher" placeholder="Rechercher" type="search" data-id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+</div>
+<div class="form-actions form-wrapper" data-id="edit-actions--2"><button type="submit" data-id="edit-submit--4" name="op" value="Résultat" class="form-submit">Résultat</button></div><input type="hidden" name="form_build_id" value="form-ac2Kad2C4UypVPmMqU8NruKvIFhWC118biU-LC4s-i0">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>    </div>
+</div>
+</li></ul></nav>
+<nav id="main-menu-mobile"><ul class="menu"><li class="first expanded menu-mlid-1541 depth--2"><a href="/fr/particulier/offres" class="front-deployed depth--2">Nos | offres<span class="caret"></span></a><ul class="menu"><li class="first expanded menu-mlid-1542 depth--3" identifier="go-mobile--part"><a href="/fr/particulier/offres/mobile" class="tango-icon tango-icon-mobile double-color depth--3" menu_image="345"><span class="go">go</span>mobile<span class="caret"></span></a><ul class="menu"><li class="first last expanded menu-mlid-8947 depth--4"><a href="/fr" title="Tous les forfaits pour votre téléphone portable au meilleur prix " class="depth--4"><span class="go">go</span>mobile<span class="caret"></span></a><div>Tous les forfaits pour votre téléphone portable au meilleur prix </div><ul class="menu"><li class="first leaf menu-mlid-8960 depth--5"><a href="/fr/particulier/offres/mobile/abonnement" class="depth--5">Nos offres mobiles</a></li>
+<li class="leaf menu-mlid-8957 depth--5"><a href="/fr/particulier/offres/mobile/internet-mobile" class="depth--5">Nos offres Internet Mobile</a></li>
+<li class="leaf menu-mlid-8963 depth--5"><a href="/fr/particulier/offres/mobile/abonnement/carte-prepayee" class="depth--5">Carte prépayée</a></li>
+<li class="leaf menu-mlid-8966 depth--5"><a href="/fr/particulier/offres/mobile/comparer" class="depth--5">Smartphones et tablettes</a></li>
+<li class="leaf menu-mlid-8969 depth--5"><a href="/fr/particulier/offres/mobile/abonnement/options-et-services" class="depth--5">Options et services</a></li>
+<li class="last leaf menu-mlid-8972 depth--5"><a href="/fr/particulier/promos" class="depth--5">Bons plans</a></li>
+</ul></li>
+<li><a href="https://www.tango.lu/fr/particulier/offres/mobile/abonnement/smart-illimite"><img src="../images/promomenu_mobile_newtangofibre_fr_1.png" alt="gomobile" class="mobile"></a><a href="https://www.tango.lu/fr/particulier/offres/mobile/abonnement/smart-illimite"><img src="../images/promomenu_desktop_newtangofibre_fr_1.png" alt="gomobile" class="desktop"></a></li></ul></li>
+<li class="expanded menu-mlid-1545 depth--3" identifier="go-internet--part"><a href="/fr/particulier/offres/internet" class="tango-icon-internet tango-icon double-color depth--3"><span class="go">go</span>internet<span class="caret"></span></a><ul class="menu"><li class="first last expanded menu-mlid-8975 depth--4"><a href="/fr" title="Internet plus rapide et moins cher" class="depth--4"><span class="go">go</span>internet<span class="caret"></span></a><div>Internet plus rapide et moins cher</div><ul class="menu"><li class="first leaf menu-mlid-10060 depth--5"><a href="/fr/particulier/offres/internet/abonnement/tango-duo" class="depth--5">Nos offres Internet + TV</a></li>
+<li class="leaf menu-mlid-8978 depth--5"><a href="/fr/particulier/offres/internet/abonnement/tango-fibre" class="depth--5">Nos offres Internet</a></li>
+<li class="leaf menu-mlid-8981 depth--5"><a href="/fr/particulier/offres/internet/abonnement/options-et-services" class="depth--5">Options et services</a></li>
+<li class="last leaf menu-mlid-8984 depth--5"><a href="/fr/particulier/promos" class="depth--5">Bons plans</a></li>
+</ul></li>
+<li><a href="https://www.tango.lu/fr/particulier/offres/internet/abonnement/tango-fibre"><img src="../images/promomenu_mobile_newtangofibre_fr.png" alt="gointernet" class="mobile"></a><a href="https://www.tango.lu/fr/particulier/offres/internet/abonnement/tango-fibre"><img src="../images/promomenu_desktop_newtangofibre_fr.png" alt="gointernet" class="desktop"></a></li></ul></li>
+<li class="expanded menu-mlid-1548 depth--3" identifier="go-tv--part"><a href="/fr/particulier/offres/television" class="tango-icon-tv tango-icon double-color depth--3"><span class="go">go</span>tv<span class="caret"></span></a><ul class="menu"><li class="first last expanded menu-mlid-8987 depth--4"><a href="/fr" title="La TV pour tous les goûts" class="depth--4"><span class="go">go</span>tv<span class="caret"></span></a><div>La TV pour tous les goûts</div><ul class="menu"><li class="first leaf menu-mlid-10063 depth--5"><a href="/fr/particulier/offres/internet/abonnement/tango-duo" class="depth--5">Nos offres Internet + TV</a></li>
+<li class="leaf menu-mlid-8990 depth--5"><a href="/fr/particulier/offres/television/offres-pack-tv/tango-tv" class="depth--5">Nos offres TV</a></li>
+<li class="leaf menu-mlid-8999 depth--5"><a href="/fr/decouvrez-toute-lactu-de-votre-tango-tv" class="depth--5">Actu TV</a></li>
+<li class="leaf menu-mlid-10358 depth--5"><a href="http://www.tango.lu/fr/particulier/offres/television/offres-pack-tv/vos-chaines-tango-tv?subscription=6391" class="depth--5">Chaînes TV</a></li>
+<li class="leaf menu-mlid-8996 depth--5"><a href="/fr/particulier/offres/television/offres-pack-tv/bouquets-thematiques-tango-tv" class="depth--5">Bouquets TV</a></li>
+<li class="leaf menu-mlid-9311 depth--5"><a href="/fr/rdv-sports" class="depth--5">RDV Sports</a></li>
+<li class="last leaf menu-mlid-8993 depth--5"><a href="/fr/particulier/promos" class="depth--5">Bons Plans</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf menu-mlid-9302 help depth--3"><a href="https://community.tango.lu/" class="tango-icon tango-icon-help mobile-only depth--3">Support</a></li>
+<li class="last leaf menu-mlid-4745 depth--3"><a href="https://facture.tango.lu/gestion/Login.aspx" class="tango-icon tango-icon-user mobile-only depth--3">My Tango</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-1813 help depth--2"><a href="https://community.tango.lu/" class="tango-icon tango-icon-help mobile-only depth--2">Support</a></li>
+<li class="search_form"><div class="block-search-form">
+    <div class="content">
+                <form action="/fr/sites/tango/themes/tango/fonts/fontawesome-webfont.woff2?v=4.7.0" method="post" data-id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline clearfix">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" data-for="edit-search-block-form--4">Rechercher </label>
+ <input title="Rechercher" placeholder="Rechercher" type="search" data-id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+</div>
+<div class="form-actions form-wrapper" data-id="edit-actions--2"><button type="submit" data-id="edit-submit--4" name="op" value="Résultat" class="form-submit">Résultat</button></div><input type="hidden" name="form_build_id" value="form-ac2Kad2C4UypVPmMqU8NruKvIFhWC118biU-LC4s-i0">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>    </div>
+</div>
+</li></ul></nav>
+    </div>
+
+            
+                            <div id="block-locale-language" class="block block-locale">
+        <div class="content">
+        <ul class="language-switcher-locale-url"><li class="fr first active"><a href="/fr/node/158" class="language-link active" xml:lang="fr">Français</a></li>
+<li class="en-gb"><a href="/en/node/158" class="language-link" xml:lang="en-gb">English</a></li>
+<li class="de last"><a href="/de/node/158" class="language-link" xml:lang="de">Deutsch</a></li>
+</ul>    </div>
+</div>
+                    </div>
+
+    </nav>
+
+    </header>
+
+    
+    <section id="main">
+                        <div class="tabs"></div>            <div class="region region-content">
+        <div id="block-system-main" class="block block-system">
+        <div class="content">
+        The requested page "/fr/sites/tango/themes/tango/fonts/fontawesome-webfont.woff2?v=4.7.0" could not be found.    </div>
+</div>
+    </div>
+    </section>
+
+    
+    <footer>
+    <div class="contact">
+    <div class="container-fluid">
+        <div class="col-md-4 newsletter">
+            <div class="title">
+							<span class="little">Recevez notre</span><span class="big">Newsletter</span>            </div>
+            <div class="form">
+							<div id="newsletter-register-form"><form class="campaignmonitor-subscribe-form campaignmonitor-subscribe-form-db-newsletter" action="/fr/sites/tango/themes/tango/fonts/fontawesome-webfont.woff2?v=4.7.0" method="post" id="form-1kxjb9bbszqucekwggipollg3vrbhz0h-fcdutop5lk" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email">Entrez votre email... <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Entrez votre email..." type="text" id="edit-email" name="email" value="" size="60" maxlength="200" class="form-text required">
+</div>
+<input type="hidden" name="list_id" value="904b8f0600c57c50cfa3298b028a5dc3">
+<input type="hidden" name="form_build_id" value="form-1kxjb9bBsZQUCEKwGgiPOllG3vRBHz0h-fCdUtOP5lk">
+<input type="hidden" name="form_id" value="tango_campaignmonitor_newsletter_form">
+<div class="form-type-textfield">En soumettant mon mail, j'accepte la <a href="https://www.tango.lu/sites/tango/files/politique_en_matiere_de_protection_des_donnees_a_caractere_personnel.pdf">Politique en matière de protection des données</a> de Tango</div><div class="actions"><button type="submit" id="edit-submit--3" name="op" value="" class="form-submit"></button></div></div></form></div>            </div>
+        </div>
+        <div class="col-md-4 stores">
+            <div class="title">
+              <a href="/fr/points-de-vente?tab=bizzcorners">Découvrez nos <span>28 points</span> de ventes</a>
+            </div>
+        </div>
+        <div class="col-md-4 socials-icons">
+            <div class="inner">
+                                    <div class="title">
+                        <span class="little">Restons en</span><span class="big">Contact</span>                    </div>
+                
+                <div class="icons">
+                                            <a data-lazy-load-class="" class="icon facebook" href="http://www.facebook.com">
+                        </a>
+                                            <a data-lazy-load-class="" class="icon youtube" href="https://www.youtube.com/user/TangoLuxembourg">
+                        </a>
+                                            <a data-lazy-load-class="" class="icon facebook" href="/fr/node/123">
+                        </a>
+                                            <a data-lazy-load-class="" class="icon phone" href="tel:800 777 777">
+                        </a>
+                                            <a data-lazy-load-class="" class="icon shops" href="http://www.tango.lu">
+                        </a>
+                                    </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+<div class="external">
+            <div class="container-fluid">
+                            <div class="col-xs-12 col-sm-6">
+                    <div class="title col-xs-7">
+                        <span class="little">Tango</span><span class="big">Magazine</span>                    </div>
+                    <div class="link col-xs-5">
+                        <a href="/fr/node/2287">
+                            <img src="data:image/gif;base64,R0lGODlhFAAUAIAAAP///wAAACH5BAEAAAAALAAAAAAUABQAAAIRhI+py+0Po5y02ouz3rz7rxUAOw==" data-src="https://www.tango.lu/sites/tango/files/styles/footer_external_push/public/external_push/tango_magazine_0.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                            <div class="col-xs-12 col-sm-6">
+                    <div class="title col-xs-7">
+                        <span class="little">Download our</span><span class="big">App</span>                    </div>
+                    <div class="link col-xs-5">
+                        <a href="/fr/node/2195">
+                            <img src="data:image/gif;base64,R0lGODlhFAAUAIAAAP///wAAACH5BAEAAAAALAAAAAAUABQAAAIRhI+py+0Po5y02ouz3rz7rxUAOw==" data-src="https://www.tango.lu/sites/tango/files/styles/footer_external_push/public/external_push/application_cbu_1.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                    </div>
+     </div><div class="seo-menu">
+  <div class="container-fluid">
+    <div class="application mobile">
+        <div class="title">Notre Application</div>
+        <div class="description">Prenez le contrôle de votre abonnement avec l'app My Tango ! </div>
+        <div class="stores">
+          <a href="https://play.google.com/store/apps/details?id=lu.tango" class="playstore store"></a>
+          <a href="https://apps.apple.com/lu/app/my-tango/id470889780" class="appstore store"></a>
+        </div>
+    </div>
+    <ul class="menu"><li class="first expanded menu-mlid-4689"><span class="no-link">Marques</span><input type="checkbox" id="toggle-seo-menu-6060b626a80c2"><div class="seo-menu-entry"><label for="toggle-seo-menu-6060b626a80c2"></label><ul class="menu"><li class="first leaf menu-mlid-4690"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/apple">Apple</a></li>
+<li class="leaf menu-mlid-4691"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/samsung">Samsung</a></li>
+<li class="leaf menu-mlid-4692"><a href="/fr/particulier/offres/mobile/comparer">Sony</a></li>
+<li class="leaf menu-mlid-4693"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/huawei">Huawei</a></li>
+<li class="leaf menu-mlid-4694"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/htc">HTC</a></li>
+<li class="last leaf menu-mlid-4695"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer">LG</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-4696"><span class="no-link">Systèmes d'exploitation</span><input type="checkbox" id="toggle-seo-menu-6060b626a8151"><div class="seo-menu-entry"><label for="toggle-seo-menu-6060b626a8151"></label><ul class="menu"><li class="first leaf menu-mlid-4697"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/android">Android</a></li>
+<li class="leaf menu-mlid-4698"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/apple-ios">iOS</a></li>
+<li class="last leaf menu-mlid-4699"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/microsoft-windows">Windows</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-4700"><span class="no-link">Appareils</span><input type="checkbox" id="toggle-seo-menu-6060b626a8190"><div class="seo-menu-entry"><label for="toggle-seo-menu-6060b626a8190"></label><ul class="menu"><li class="first leaf menu-mlid-4701"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/offres-speciales">Offres spéciales</a></li>
+<li class="leaf menu-mlid-4702"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/smartphones-premium">Smartphones premium</a></li>
+<li class="leaf menu-mlid-4703"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/nouveautes">Nouveautés</a></li>
+<li class="leaf menu-mlid-4704"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/meilleures-ventes">Meilleures ventes</a></li>
+<li class="leaf menu-mlid-4705"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/telephone-portable-petit-prix">Petits prix</a></li>
+<li class="last leaf menu-mlid-4706"><a href="https://www.tango.lu/fr/particulier/offres/mobile/comparer/smartphones-milieu-de-gamme">Smartphones milieu de gamme</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-4707"><span class="no-link">Points de vente</span><input type="checkbox" id="toggle-seo-menu-6060b626a81f3"><div class="seo-menu-entry"><label for="toggle-seo-menu-6060b626a81f3"></label><ul class="menu"><li class="first leaf menu-mlid-4708"><a href="https://www.tango.lu/fr/points-de-vente/luxembourg">Tango Luxembourg</a></li>
+<li class="leaf menu-mlid-4709"><a href="https://www.tango.lu/fr/points-de-vente/bertrange">Tango Bertrange</a></li>
+<li class="leaf menu-mlid-4711"><a href="https://www.tango.lu/fr/points-de-vente/bettembourg">Tango Bettembourg</a></li>
+<li class="leaf menu-mlid-4712"><a href="https://www.tango.lu/fr/points-de-vente/bascharage">Tango Bascharage</a></li>
+<li class="last leaf menu-mlid-4713"><a href="https://www.tango.lu/fr/points-de-vente/differdange">Tango Differdange</a></li>
+</ul></div></li>
+<li class="expanded menu-mlid-1513"><span class="no-link">Documentation Légale</span><input type="checkbox" id="toggle-seo-menu-6060b626a8244"><div class="seo-menu-entry"><label for="toggle-seo-menu-6060b626a8244"></label><ul class="menu"><li class="first leaf menu-mlid-1856"><a href="/fr/particulier/aide-support/documentation-legale/information-produit">Information produit</a></li>
+<li class="leaf menu-mlid-1859"><a href="/fr/particulier/aide-support/documentation-legale/documents-administratifs">Documents administratifs</a></li>
+<li class="leaf menu-mlid-4130"><a href="/fr/documents-supports">Documents supports</a></li>
+<li class="leaf menu-mlid-1860"><a href="/fr/particulier/support/documentation-legale/jeux-et-reglements">Jeux et règlements</a></li>
+<li class="leaf menu-mlid-3450"><a href="/fr/particulier/aide-support/documentation-legale/autres-documents">Autres documents</a></li>
+<li class="last leaf menu-mlid-4960"><a href="/fr/professionnel/support/conditions-generales">Documentation légale offres pros</a></li>
+</ul></div></li>
+<li class="last expanded menu-mlid-5674"><span class="no-link">Mais aussi ...</span><input type="checkbox" id="toggle-seo-menu-6060b626a89e6"><div class="seo-menu-entry"><label for="toggle-seo-menu-6060b626a89e6"></label><ul class="menu"><li class="first leaf menu-mlid-5675"><a href="/fr/particulier/offres/mobile/abonnement/options-et-services/reparation-assurance-mobile">Assurance &amp; réparation mobile</a></li>
+<li class="leaf menu-mlid-5676"><a href="/fr/particulier/offres/mobile/abonnement/comparateur">Comparez les abonnements mobiles</a></li>
+<li class="leaf menu-mlid-5690"><a href="/fr/particulier/offres/mobile/4g-luxembourg">Couverture 4G</a></li>
+<li class="last leaf menu-mlid-5880"><a href="/fr/particulier/offres/mobile/abonnement/evolution-roaming-europe">Roaming</a></li>
+</ul></div></li>
+</ul>    <div class="application">
+        <div class="title">Notre Application</div>
+        <div class="description">Prenez le contrôle de votre abonnement avec l'app My Tango ! </div>
+        <div class="stores">
+          <a href="https://play.google.com/store/apps/details?id=lu.tango" class="playstore store"></a>
+          <a href="https://apps.apple.com/lu/app/my-tango/id470889780" class="appstore store"></a>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="partners">
+    <div class="information">
+      <div class="container-fluid">
+        <div class="contact"><a href="https://www.tango.lu/fr/particulier/contactez-nous">Contactez-nous</a></div>
+        <div class="phone"><a href="tel:80077777">800 777 77</a></div>
+      </div>
+    </div>
+
+    <div class="payment-delivery">
+      <div class="container-fluid">
+        <a target="_blank" href="https://www.luxtrust.lu/" class="item luxtrust"></a>
+        <a target="_blank" href="https://www.six-payment-services.com" class="item saferpay"></a>
+        <a target="_blank" href="https://dcpostalservice.lu/" class="item dc"></a>
+      </div>
+    </div>
+
+    <div class="partners">
+        <div class="container-fluid">
+                                <a href="http://www.proximus.lu" target="_blank" data-ga-event="External_link*http://www.proximus.lu">
+                      <img src="data:image/gif;base64,R0lGODlhFAAUAIAAAP///wAAACH5BAEAAAAALAAAAAAUABQAAAIRhI+py+0Po5y02ouz3rz7rxUAOw==" data-src="https://www.tango.lu/sites/tango/files/styles/footer_partner_push/public/partners_push/col_pos_rgb_transparence_1.png" alt="Proximus">
+                  </a>
+                                <a href="https://www.telindus.lu" target="_blank" data-ga-event="External_link*https://www.telindus.lu">
+                      <img src="data:image/gif;base64,R0lGODlhFAAUAIAAAP///wAAACH5BAEAAAAALAAAAAAUABQAAAIRhI+py+0Po5y02ouz3rz7rxUAOw==" data-src="https://www.tango.lu/sites/tango/files/styles/footer_partner_push/public/partners_push/telindus_logo_2016_rvb_small_neg_0.png" alt="Telindus">
+                  </a>
+                                <a href="http://www.vodafone.com" target="_blank" data-ga-event="External_link*http://www.vodafone.com">
+                      <img src="data:image/gif;base64,R0lGODlhFAAUAIAAAP///wAAACH5BAEAAAAALAAAAAAUABQAAAIRhI+py+0Po5y02ouz3rz7rxUAOw==" data-src="https://www.tango.lu/sites/tango/files/styles/footer_partner_push/public/partners_push/1280px-vodafone_2017_logo.svg__1.png" alt="Vodafone">
+                  </a>
+                        
+        </div>
+    </div>
+</div>
+<div class="container-fluid footer-menu"><ul class="menu"><li class="first leaf menu-mlid-5781"><a href="https://www.tango.lu/sites/tango/files/editor-files/documents/Autorisation%20d%27Etablissement%20N%C2%B000116315-3_G%C3%A9rard%20Hoffmann%20-%2005.2019.pdf">Autorisation d&#039;exercice de l&#039;activité</a></li>
+<li class="leaf menu-mlid-2073"><a href="/fr/particulier/aide-support/documentation-legale/information-produit/conditions-generales-infos-sur-la-consommation">Conditions générales et particulières</a></li>
+<li class="leaf menu-mlid-1316"><a href="/fr/mentions-legales-politique-de-cookies-vie-privee">Mentions légales et Politique de cookies</a></li>
+<li class="leaf menu-mlid-9008"><a href="/fr/particulier/aide-support/documentation-legale">Documentation légale</a></li>
+<li class="leaf menu-mlid-6163"><a href="/fr" data-vk_cookie_manager_open_modal="1">Configurer vos cookies</a></li>
+<li class="last leaf menu-mlid-3267"><a href="/fr/jobs">Jobs</a></li>
+</ul></div><div class="vk_cookie_compliance hidden"><div class="container">
+    <p>En poursuivant votre navigation sur ce site, vous acceptez l&rsquo;utilisation de cookies destinés à améliorer la qualité de votre visite.&nbsp;<a href="/fr/mentions-legales-politique-de-cookies-vie-privee">En savoir plus</a></p>    <a class="close">
+        <div class="bar"></div>
+        <div class="bar"></div>
+    </a>
+</div></div><!-- Facebook Pixel Code -->
+              <script>
+              !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+              n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+              n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+              t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+              document,'script','https://connect.facebook.net/en_US/fbevents.js');
+              fbq('init', '425499930946687');
+              fbq('track', 'PageView');</script><noscript><img height="1" width="1" style="display:none" src="../tr"></noscript><!-- DO NOT MODIFY --><!-- End Facebook Pixel Code --></footer>
+
+    
+</div>
+    <div id="outdated"></div><script type="text/javascript" src="../js/js_MCsAVDUFwUOSPDPujLkGISUQl8W8-e5GsP8YeWLU18U.js"></script>
+<script type="text/javascript" src="../js/js_2thRPjKfBuV25W6WxVl7AyUBeU9og9ARPefMIoJp_4o.js"></script>
+<script type="text/javascript" src="../js/js_6lsw5xn9wsjpJXwcUcYGVY1__9DUugf-yBRzt2mgNKg.js"></script>
+<script type="text/javascript" src="../js/js_f-rzARK8OU2MeKWctPw3NYB9kzu5JpQU6xYvPQHDilI.js"></script>
+<script type="text/javascript" src="../js/js_gw97X14Rh6vUW8hxN34ZfRoDsvijpdpOsl65TMM1xA8.js"></script>
+<script type="text/javascript" src="../js/js_Qg29DY71fowW4WJ0z2OVnDY8NIQqfOHp14il4PLyJrk.js"></script>
+<script type="text/javascript" src="../js/js_2Rch2aHShlnf5T23MJ4ifDc1dofR_uZ1_TdsH_1PpOE.js"></script>
+    </body>
+</html>

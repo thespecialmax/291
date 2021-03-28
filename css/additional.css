@@ -1,0 +1,57 @@
+.device-details-content .paragraphs-item-download-files-list {
+  background: none;
+  padding-bottom: 0;
+}
+
+
+.device-details-content .paragraphs-item-download-files-item {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eaf0f5;
+}
+
+@media (min-width: 992px) {
+  .device-details-content .paragraphs-item-download-files-list {
+    padding-left: 10px;
+  }
+}
+
+.captcha {
+  clear: both;
+}
+.captcha img {
+  margin-top: 30px;
+  padding-top: 30px;
+  height: auto;
+}
+.standard-form .form-generator-captcha .form-item{
+  display: inline-block;
+  float: left;
+}
+.captcha .description {
+  background-color: #fff;
+}
+
+.webform-component--left-side--confirm-email {
+  display: none;
+}
+
+.webform-component-fieldset .file_extensions {
+  position: relative;
+  top: -20px;
+  z-index: -1;
+}
+
+.navbar#menu .navbar-header .navbar-brand.anniversary img {
+  top: 40px;
+}
+
+@media (max-width: 1199px) {
+
+  .navbar#menu .navbar-header .navbar-brand.anniversary {
+    margin-top: 9px;
+  }
+}
+
+.contact_legals {
+  clear: both;
+}
